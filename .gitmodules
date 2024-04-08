@@ -1,0 +1,9 @@
+[submodule "FigStep"]
+    path = FigStep
+    url = https://github.com/ThuCCSLab/FigStep.git
+[submodule "RedTeamingVLM"]
+    path = RedTeamingVLM
+    url = https://huggingface.co/datasets/MMInstruction/RedTeamingVLM
+[submodule "VLGuard"]
+    path = VLGuard
+    url = https://github.com/ys-zong/VLGuard.git
